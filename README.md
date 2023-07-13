@@ -8,6 +8,10 @@ If you'd like to contribute to `go_mysql_book_management` please submit a pull-r
 
 # Installing
 
+Use Gorm v1 -> https://v1.gorm.io/
+
+`go mod init github.com/{username}/{project_name}` 
+
 `go get "github.com/jinzhu/gorm`
 
 `go get "github.com/jinzhu/gorm/dialects/mysql`
